@@ -38,6 +38,8 @@
   "confirm-reload-stream": "ストリーミングを読み込み直してリフレッシュを試みます。よろしいですか?",
   "connected": "接続済み",
   "console-connect": "本体に接続",
+  "continent-asia": "アジア",
+  "continent-south-america": "南アメリカ",
   "contrast": "コントラスト",
   "controller": "コントローラー",
   "controller-friendly-ui": "コントローラー向けUI",
