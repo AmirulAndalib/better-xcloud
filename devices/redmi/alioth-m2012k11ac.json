@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "device_name": "Redmi K40",
+  "device_type": "android",
+  "settings": {
+    "script": {
+      "_base": "highest"
+    }
+  }
+}
