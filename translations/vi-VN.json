@@ -177,6 +177,7 @@
   "separate-touch-controller": "Tách biệt Bộ điều khiển cảm ứng và Tay cầm #1",
   "separate-touch-controller-note": "Bộ điều khiển cảm ứng là Người chơi 1, Tay cầm #1 là Người chơi 2",
   "server": "Máy chủ",
+  "server-locations": "Vị trí server",
   "settings": "Cài đặt",
   "settings-reload": "Tải lại trang để áp dụng các thay đổi",
   "settings-reload-note": "Các cài đặt trong trang này chỉ được áp dụng vào lần tải trang tiếp theo",

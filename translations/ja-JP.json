@@ -173,6 +173,7 @@
   "separate-touch-controller": "タッチコントローラーとコントローラー#1を分ける",
   "separate-touch-controller-note": "タッチコントローラーがプレイヤー1、コントローラー#1がプレイヤー2に割り当てられます",
   "server": "サーバー",
+  "server-locations": "サーバーマップ",
   "settings": "設定",
   "settings-reload": "ページを更新をして設定変更を適用",
   "settings-reload-note": "このタブの設定は次回読み込み時から有効になります",

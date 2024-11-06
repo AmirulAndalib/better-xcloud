@@ -173,6 +173,7 @@
   "separate-touch-controller": "Separar controlador táctil y controlador #1",
   "separate-touch-controller-note": "El controlador táctil es Jugador 1, Controlador #1 es Jugador 2",
   "server": "Servidor",
+  "server-locations": "Ubicación de los servidores",
   "settings": "Configuraciones",
   "settings-reload": "Actualice la página para aplicar los cambios",
   "settings-reload-note": "Los ajustes de esta pestaña sólo se aplicarán en la próxima carga de página",

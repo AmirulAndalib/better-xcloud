@@ -180,6 +180,7 @@
   "separate-touch-controller": "虚拟摇杆和手柄分别控制不同角色",
   "separate-touch-controller-note": "虚拟摇杆为玩家1，手柄#1为玩家2",
   "server": "服务器",
+  "server-locations": "服务器区域",
   "settings": "设置",
   "settings-reload": "重新加载页面以应用更改",
   "settings-reload-note": "此选项卡中的设置将在下次加载页面时生效",
