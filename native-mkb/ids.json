@@ -1,4 +1,6 @@
-[
-  "9P2VGCTBMM52",
-  "9PMQDM08SNK9"
-]
+{
+  "$schemaVersion": 1,
+  "data": {
+    "9P2VGCTBMM52": "Microsoft Flight Simulator 2020"
+  }
+}
